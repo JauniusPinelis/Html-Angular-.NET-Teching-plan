@@ -36,3 +36,26 @@
 
     1. Css Files
     2. Basic css for texts
+    3. Classes vs Ids
+
+### Lesson 2
+
+    1. Box Model
+    2. Padding
+    3. Margin
+    4. Borders
+
+### Lesson 3
+
+    1. Importing external files.
+    2. Bootstrap
+    3. Bootstrap basics
+    4. Web responsive design
+
+### Lesson 4
+
+    1. Git and its use.
+    2. Git Basics.
+
+## Lesson 3
+
