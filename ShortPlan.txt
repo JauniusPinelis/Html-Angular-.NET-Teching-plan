@@ -1,0 +1,78 @@
+Įvadas į „Front-end“ programavimą - 100 val.
+
+- HTML
+
+- CSS
+
+- JS
+
+- Įvadas į Angular
+
+ 
+
+Programavimo aplinkos ir kūrimo proceso valdymas ir versijų kontrolė - 20 val.
+
+- Programinės įrangos kūrimo metodikos, Agile pagrindai
+
+- Proograminės įrangos versijavimas su GIT
+
+ 
+
+Duomenų bazės ir duomenys - 40val.
+
+- Įvadas į duomenų bazių ekosistemą
+
+- Įvadas į MySQL
+
+- Duomenų modeliavimas
+
+- SQL DDL komandos
+
+- SQL DML komandos 
+
+- SQL DQL komandos
+
+- SQL Join komandos
+
+ 
+
+Duomenų bazės ir jų administravimas - 40val.
+
+- SQL DCL komandos: vartotojų kūrimas bei privilegijų skyrimas
+
+- Views kūrimas ir naudojimas
+
+- Indeksų kūrimas 
+
+- Atsarginių kopijų kūrimas ir atstatymas (Backup and Recovery)  
+
+- Replikacija
+
+- Supažindinimas su Microsoft SQL Server
+
+ 
+
+Objektinis programavimas su „C#“ („.NET“) - 280 val.
+
+- C# Pagrindai: kintamieji, kontrolės struktūros, funkcijos. 
+
+- C# Algoritmų ir duomenų struktūrų pagrindai
+
+- C# Objektinis programavimas. 
+
+- C# Kolekcijos
+
+- C# Kolekcijų apdorojimas su LINQ
+
+- C# koncepcijos pažengusiems: delegatai, gijos, lambda, I/O
+
+- Įvadas į Dot Net Karkasą
+
+- Dot NET Core 
+
+- Dot NET Entity karkasas bendravimui su duomenų baze
+
+- Dot NET Core API kūrimas 
+
+- Dot NET Core API jungimas su Angular
+- Sveitainės talpinimas realiame serveryje
