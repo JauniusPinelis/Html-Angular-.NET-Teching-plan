@@ -8,17 +8,31 @@
     0. Course Intro
     1. Visual Studio code for editor for Html/CSS
     2. Chrome browser introduction.
-    3. Html File and its content.
-    4. Tag Syntax
-    5. First Project First website
+    3. Folder Structure Explained.
+    4. Editting and Running html file.
+    5. ! shortcut, snippets
+    6. Html File and its content.
+    7. Tags Open and Close syntax, some exceptions
+    8. DocType explained
+    9. Page Analysis
+    10. Paint.Net
+    11. Sherlock analysis
+    12. Title
+    13. Basic Tags https://www.tutorialspoint.com/html/html_basic_tags.htm
+    14. Searching for information, talking to fellows, asking questions, Naglis.
+    15. Sherlock project intro
+    16. Live Server (url differences)
+    17. https vs http
+    18. Pjaustymas
 
 ### Lesson 2 - 2 hours
 
-    1. Comments.
-    2. Visual Studio Extensions, Live Server, Use of tab
-    3. Formatting page
-    4. Basic tags continued
-    5. Headers
+    1. Img Tag 
+    2. Emmet/Autocomplete
+    3. Attributes of a tag Img/Tag
+    4. Div tags
+    5. Default layout
+    6. Anchor tag
 
 ### Lesson 3 - 2 hours
 
