@@ -33,14 +33,24 @@
     4. Div tags
     5. Default layout
     6. Anchor tag
+    7. lorem
+    8. Style attribute (color:red ;)
+    9. Colors
+    10. RGB Schema
+    11. Style attribute (FontSize: 12px ;) (or percentage)
+    12. Paragraph <p>
+    13. Minus symbol in background-color/font-size
+    14. Width attribute (Width: 50%)
+    15. Comments
+    16. Display:block (default) vs display: inline-block
+    17. Going deeper in display: inline-block and Width adjustments
+    18. float: left
+    19. Github
+    20. Git
 
 ### Lesson 3 - 2 hours
 
-    1. Images width/height
-    2. Videos/Content
-    3. Form, 
-    4. Input/Dropdown
-    5. Button
+    1. Git Continued
 
 ### Lesson 4 - 3 hours
 
