@@ -24,33 +24,57 @@
     16. Live Server (url differences)
     17. https vs http
     18. Pjaustymas
+    19. Img Tag 
+    20. Emmet/Autocomplete
+    21. Attributes of a tag Img/Tag
+    22. Div tags
+    23. Default layout
+    24. Anchor tag
+    25. lorem
+    26. Style attribute (color:red ;)
+    27. Colors
+    28. RGB Schema
+    29. Style attribute (FontSize: 12px ;) (or percentage)
+    30. Paragraph <p>
+    31. Minus symbol in background-color/font-size
+    32. Width attribute (Width: 50%)
+    33. Comments
+    34. Display:block (default) vs display: inline-block
+    35. Going deeper in display: inline-block and Width adjustments
+    36. float: left
+    37. Github
+    38. Installing Git
 
 ### Lesson 2 - 2 hours
 
-    1. Img Tag 
-    2. Emmet/Autocomplete
-    3. Attributes of a tag Img/Tag
-    4. Div tags
-    5. Default layout
-    6. Anchor tag
-    7. lorem
-    8. Style attribute (color:red ;)
-    9. Colors
-    10. RGB Schema
-    11. Style attribute (FontSize: 12px ;) (or percentage)
-    12. Paragraph <p>
-    13. Minus symbol in background-color/font-size
-    14. Width attribute (Width: 50%)
-    15. Comments
-    16. Display:block (default) vs display: inline-block
-    17. Going deeper in display: inline-block and Width adjustments
-    18. float: left
-    19. Github
-    20. Git
+    0. Screen is not squared
+    1. Issues with Web responsive design.
+    2. vertical-align: baseline as default (vertical-align:top;)
+    3. Sherlock -> writing the elements, lorem usage
+    4. Headings (H1)
+    5. Git continued
+    6. Picking color + color
+    7. Text-align: center;
+    8. Why inline-block does not add to 100%
+    9. Float:left usage
+    10. <a> is displayed as inline-block
+    11. text-oriented attributes are inherited
+    12. Cntrl Alt + arrowkey for multiline edit
+    13. Father-Child relationship and overwriting parent styles
+    14. 404 style analysis
+    15. font-size (px vs %)
+    16. Developers tools (F12, Chrome Inspect)
+    17. 404 design googling
 
 ### Lesson 3 - 2 hours
 
     1. Git Continued
+    2. Visual Studio Code Git, Git Add/Commit/Push
+    3. Sherlock analysis (button is actually an url)
+    4. Lorem
+    5. <h1> tag
+    6. Scaling Sherlock to fit to the screen
+    7. Text-align: center;
 
 ### Lesson 4 - 3 hours
 
