@@ -64,24 +64,18 @@
     14. 404 style analysis
     15. font-size (px vs %)
     16. Developers tools (F12, Chrome Inspect)
-    17. 404 design googling
 
 ### Lesson 3 - 2 hours
 
-    1. Git Continued
-    2. Visual Studio Code Git, Git Add/Commit/Push
-    3. Sherlock analysis (button is actually an url)
-    4. Lorem
-    5. <h1> tag
-    6. Scaling Sherlock to fit to the screen
-    7. Text-align: center;
+    0. Developer tools continued
+    1. Button Analysis 
+    2. Padding -> make space around the element
+    3. Coloring the button
+    4. color: #fff; text-transform: uppercase; text-decoration: none;
 
 ### Lesson 4 - 3 hours
 
-    0. Tag Attributes
-    1. Anchor tags/Urls to other documents
-    2. Anchor tags/Urls to other pages.
-    3. Personal project -> navigation
+
 
 ### Lesson 5 - 3 hours
 
