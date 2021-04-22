@@ -68,18 +68,32 @@
 ### Lesson 3 - 2 hours
 
     0. Developer tools continued
-    1. Button Analysis 
-    2. Padding -> make space around the element
-    3. Coloring the button
-    4. color: #fff; text-transform: uppercase; text-decoration: none;
+    1. Earlier questions regarding tools and design.
+    2. Front-end vs back-end
+    3. Button Analysis 
+    4. Padding -> make space around the element
+    5. Coloring the button
+    6. color: #fff; text-transform: uppercase; text-decoration: none;
+    7. href="#"
+    8. Font-change
+    9. font-family:
+    10. Visual Studio Git
+    11. Github pages Setting
+    12. 404 Girl introduction
+    13. Large monitor issue
+    14. Mobile issue.
+    15. Web responsive design
+    16. Hamburger menu
 
 ### Lesson 4 - 3 hours
 
-
+    Naglis time
 
 ### Lesson 5 - 3 hours
 
-   To add
+    1. Header tag
+    2. Main tag
+    3. Mention footer
 
 ### Lesson 5 - 5 hours
 
