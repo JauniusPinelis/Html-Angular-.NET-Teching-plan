@@ -94,46 +94,29 @@
     1. Header tag
     2. Main tag
     3. Mention footer
+    4. Multiline with styles
+    5. <head> -> <style>
+    6. Css Selector
+    7. Rewriting style with element selector
+    8. Css Selector analysis
+    9. drawbacks of <style>
+    10. Third css writing way.
+    11. Absolute vs Relative url
+    12. ./main.css"
+    13. github upload
+    14. Splitting Visual Studio Code
+    15. Logo and Navigation
+    16. Creating structure
+    17. Cropping photos Cntrl + I, Cntrl + shift + x
+    18. Moving to folders
+    19. image width/height
+    20. The order of css applied
+    21. header > img vs header img
 
 ### Lesson 5 - 5 hours
 
-    1. Tables 
-    2. Individual work -> creating gallery (images within table)
-    3. Individual work -> Registration Demo.
+    Naglis time
 
 ## Week 2
 
-### Lesson 1 - 2 hours
-
-    1. Css Basics, Inline css
-    2. Css Text/Colors/ Basic positioning
-
-### Lesson 2 - 2 hours
-
-    1. Internal/External Css
-    2. Css on Lists/Images/Tables 
-    3. Class vs Ids.
-
-### Lesson 3 - 2 hours
-
-    1. Positioning.
-    2. Box Model
-    3. Padding
-    4. Margin
-    5. Borders
-
-### Lesson 3 - 3 hours
-
-    1. Create your CV Html Page.
-
-### Lesson 3 - 2 hours
-
-    1. Importing external files.
-    2. Bootstrap
-    3. Bootstrap basics
-    4. Web responsive design
-
-### Lesson 4 - 5 hours
-
-    1. Registration form with bootstrap
 
