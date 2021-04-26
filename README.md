@@ -119,4 +119,20 @@
 
 ## Week 2
 
+### Week 1
 
+    0. Class vs Id in selectors
+    1. Tables
+    2. Forms.
+    3. Bootstrap
+    4. Import libraries
+    5. Developer tools to check if everything works
+    6. Bootstrap Grid system
+    7. Container -> rows -> column
+    8. 12 columns
+    9. Writing Emmet
+    10. Registration.
+    11. Breakpoints
+    12. Placing content
+    13. Removing bootstrap in the middle
+    14. Registration continued.
