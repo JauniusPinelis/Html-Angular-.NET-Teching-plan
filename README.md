@@ -119,7 +119,7 @@
 
 ## Week 2
 
-### Week 1
+### Lesson 1
 
     0. Class vs Id in selectors
     1. Tables
@@ -136,3 +136,16 @@
     12. Placing content
     13. Removing bootstrap in the middle
     14. Registration continued.
+
+### Lesson 2
+
+    1. Bootstrap revision.
+    2. The registration website continued
+    3. Git Branching
+
+### Lesson 3
+
+
+### Lesson 4
+
+    1. https://bootsnipp.com/snippets/qr1zR
