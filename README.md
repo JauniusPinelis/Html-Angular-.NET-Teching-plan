@@ -145,7 +145,18 @@
 
 ### Lesson 3
 
+    1. Finished registration website
 
 ### Lesson 4
 
     1. https://bootsnipp.com/snippets/qr1zR
+
+### Lesson 5
+
+    1. Full Website/jumbotron with bootstrap
+    2. Website structure of several pages
+
+### Lesson 6
+
+    1. Naglis time -> https://getbootstrap.com/docs/4.6/examples/checkout/
+
