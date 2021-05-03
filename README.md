@@ -160,3 +160,23 @@
 
     1. Naglis time -> https://getbootstrap.com/docs/4.6/examples/checkout/
 
+## Week 3
+
+### Lesson 1
+
+    0. script inline vs external files
+    1. alert ("hello world")
+    2. Console.log();
+    3. Comments
+    4. Variables
+    5. var name = "string", number = 3
+    6. Basic maths
+    7. Comparison == vs ===
+    8. prompt = read user input
+    9. confirm
+    10. && and ||
+    11. Loops: while vs for
+    12. Switch statement
+    13. function with input and return
+    14. Developer tools
+    15. Conversion
