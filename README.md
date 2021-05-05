@@ -177,6 +177,27 @@
     10. && and ||
     11. Loops: while vs for
     12. Switch statement
-    13. function with input and return
     14. Developer tools
     15. Conversion
+
+### Lesson 2
+
+    1. Functions
+    2. Conversion.
+    3. Scopes
+    4. var vs const
+    5. Garbage collection
+    6. null;
+   
+### Lesson 3
+
+    1.   Pass by value;
+    2. Ternary Operator;
+    3. String Operations;
+    4. Object
+    5.  Object Propertie
+    6.  ES6 vs ES5
+    7.  http://es6-features.org/#Constants
+    8.  Class definition
+    9.  https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_inner_html
+    10. https://www.w3schools.com/js/js_examples.asp
