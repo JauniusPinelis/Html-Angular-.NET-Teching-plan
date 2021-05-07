@@ -191,13 +191,36 @@
    
 ### Lesson 3
 
-    1.   Pass by value;
-    2. Ternary Operator;
-    3. String Operations;
-    4. Object
-    5.  Object Propertie
-    6.  ES6 vs ES5
-    7.  http://es6-features.org/#Constants
-    8.  Class definition
-    9.  https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_inner_html
-    10. https://www.w3schools.com/js/js_examples.asp
+    1. Pass by value;
+    2. Array Reverse, Sort, Concat, Slice
+    3. Ternary Operator;
+    4. String Operations;
+    5. Object
+    6.  Object Properties
+    7.  ES6 vs ES5
+    8.  http://es6-features.org/#Constants
+    9.  Class definition
+    10. https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_inner_html
+    11. https://www.w3schools.com/js/js_examples.asp
+
+### Lesson 4 
+
+    Naglis time
+
+### Lesson 5
+
+    1. Git clone vs Git fork
+    2. Git Add vs Git Commit vs Git push
+    3. git local vs remote repository
+    4. Git vs Github vs Azure Devops vs Gitlab
+    5. git fetch vs git pull
+    6. What is branching?
+    7. Pull/Merge requests
+    8. VsStudio plugin/ staging
+    9. Master vs Main
+    10. Github Projects
+    11. Registration Validation
+    12. Remove Javascript validation
+
+https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
+https://www.javatpoint.com/javascript-form-validation#:~:text=JavaScript%20provides%20facility%20to%20validate,mobile%20numbers%20and%20more%20fields.
