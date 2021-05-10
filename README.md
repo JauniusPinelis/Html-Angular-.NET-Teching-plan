@@ -224,3 +224,14 @@
 
 https://tharis63.medium.com/git-fork-vs-git-clone-8aad0c0e38c0
 https://www.javatpoint.com/javascript-form-validation#:~:text=JavaScript%20provides%20facility%20to%20validate,mobile%20numbers%20and%20more%20fields.
+
+### Lesson 6
+
+Naglis Time
+
+## Week 3
+
+## Lesson 1
+
+    1. TicTacToe project
+
